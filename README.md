@@ -23,14 +23,20 @@ This project automates the provisioning of cloud infrastructure using Terraform.
 2. Public Subnet IDs: IDs of public subnets.
 3. Internet Gateway ID: ID of the internet gateway.
 
-<img width="1440" alt="Screenshot 2024-12-11 at 4 36 08 PM" src="https://github.com/user-attachments/assets/803ab78c-0b17-4696-a4d2-d3f43b880e2d" />
-
-<img width="1440" alt="Screenshot 2024-12-11 at 4 25 36 PM" src="https://github.com/user-attachments/assets/507a3f11-82a6-4d58-9648-0e2fba1762bd" />
-
-<img width="1440" alt="Screenshot 2024-12-11 at 4 29 57 PM" src="https://github.com/user-attachments/assets/3bde44ec-7bdd-44fa-ab64-d3b593dd521d" />
-
-<img width="1440" alt="Screenshot 2024-12-11 at 4 30 30 PM" src="https://github.com/user-attachments/assets/ffa073c3-4cd6-4aad-b502-c02b496eecd8" />
-
-<img width="1440" alt="Screenshot 2024-12-11 at 4 30 39 PM" src="https://github.com/user-attachments/assets/26e03e21-bd0d-47ed-88e8-2abb4e850dab" />
+Initialize with terraform init, preview changes with terraform plan, and apply configurations with terraform apply to provision resources.
 
 
+
+<img width="1440" alt="Screenshot 2024-12-11 at 4 36 08 PM" src="https://github.com/user-attachments/assets/1071f768-0c0a-4115-a0fb-1c24e72eb492" />
+
+
+
+![Screenshot 2024-12-11 at 4 29 57 PM](https://github.com/user-attachments/assets/c649baf7-0015-4efe-9541-77d826137b2a)
+
+
+
+<img width="1440" alt="Screenshot 2024-12-11 at 4 30 39 PM" src="https://github.com/user-attachments/assets/903c8560-34c9-4764-b977-ff47838dccfa" />
+
+
+
+<img width="1440" alt="Screenshot 2024-12-11 at 4 30 30 PM" src="https://github.com/user-attachments/assets/da841f7b-3291-4a2a-8940-d64651a1b60d" />
